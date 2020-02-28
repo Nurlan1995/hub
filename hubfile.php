@@ -1,2 +1,5 @@
 <?php
-hgkjhgkghjhgh
+
+echo "Karona virus";
+
+?>
